@@ -1,0 +1,13 @@
+{
+  "name": "uxpective-forms",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend for the UXPective cohort page forms: apply for the cohort and download the curriculum.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node test/cohort.js && node test/hubspot.js"
+  },
+  "dependencies": {
+    "disposable-email-domains": "^1.0.62"
+  }
+}

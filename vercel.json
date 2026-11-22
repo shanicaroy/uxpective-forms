@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/cohort-curriculum.js": {
+      "includeFiles": "assets/**"
+    },
+    "api/cohort-apply.js": {
+      "includeFiles": "assets/**"
+    }
+  }
+}
